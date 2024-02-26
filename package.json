@@ -1,0 +1,32 @@
+{
+  "name": "calculus-toolkit",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "calculus-toolkit is a JavaScript library that provides various mathematical functions including calculus operations such as derivatives and integrals. It also includes basic arithmetic operations and number formatting utilities.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhamadluthfiam/calculus-toolkit.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arithmetic",
+    "calculus",
+    "differentiation",
+    "integration",
+    "derivative",
+    "integral",
+    "toolkit",
+    "utility",
+    "numeric",
+    "manipulation",
+    "operations"
+  ],
+  "author": "muhamadluthfiam <mluthfiamrullah@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "numeric-toolkit": "^1.0.0"
+  }
+}
